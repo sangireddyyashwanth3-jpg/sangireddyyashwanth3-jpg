@@ -32,7 +32,7 @@ I enjoy building practical web applications and AI-powered solutions using Pytho
 ### Frontend
 
 * HTML5
-* CSS3
+* CSS
 * JavaScript
 * Responsive Web Development
 
