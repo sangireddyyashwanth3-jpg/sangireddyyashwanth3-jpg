@@ -2,7 +2,7 @@
 
 ### Electrical & Communication Engineering Graduate | VLSI | Embedded Systems | Python
 
-I'm an Electrical & Communication Engineering graduate interested in **VLSI design, digital electronics, embedded systems, communication systems, and Python programming**.
+I'm an Electrical & Communication Engineering graduate interested in ** java and Python programming**.
 
 I enjoy learning through practical projects and building solutions that connect **electronics, hardware, and software**.
 
