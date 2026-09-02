@@ -25,8 +25,7 @@ I enjoy building practical web applications and AI-powered solutions using Pytho
 
 ### Programming
 
-* Python 3
-* Python 2 (Legacy)
+* Python 
 * SQL
 * JavaScript
 
