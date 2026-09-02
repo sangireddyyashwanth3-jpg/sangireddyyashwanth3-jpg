@@ -1,23 +1,23 @@
 # 👋 Hi, I'm Yashwanth Kumar Reddy
 
-### Electrical & Communication Engineering Graduate | VLSI | Embedded Systems | Python
+### Python Full Stack Developer | Generative AI | Software Developer
 
-I'm an Electrical & Communication Engineering graduate interested in ** java and Python programming**.
+I'm an Electrical & Communication Engineering graduate focused on building my career in **software development, Python Full Stack Development, and Generative AI**.
 
-I enjoy learning through practical projects and building solutions that connect **electronics, hardware, and software**.
+I enjoy building practical web applications and AI-powered solutions using Python and modern development technologies.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * 🎓 Electrical & Communication Engineering Graduate
-* 💻 Learning and developing projects using Python
-* 🔧 Interested in VLSI Design & Digital Electronics
-* 🔌 Interested in Embedded Systems and Electronics
-* 📡 Interested in Communication Systems
-* 🧠 Interested in problem solving and continuous learning
-* 💼 Completed an internship related to VLSI Design and Chip Architecture
-* 🌱 Currently improving my programming and development skills
+* 🐍 Python Full Stack Developer
+* 🤖 Generative AI Enthusiast
+* 💻 Interested in Software Development
+* 🌐 Building full-stack web applications
+* 🧠 Interested in AI-powered applications and LLMs
+* 📚 Continuously improving my programming and development skills
+* 🚀 Building practical projects to strengthen my software portfolio
 
 ---
 
@@ -25,109 +25,110 @@ I enjoy learning through practical projects and building solutions that connect 
 
 ### Programming
 
+* Python 3
+* Python 2 (Legacy)
+* SQL
+* JavaScript
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Responsive Web Development
+
+### Backend
+
 * Python
-* C
-* Basic Data Structures & Algorithms
+* Django
+* Flask
+* REST APIs
 
-### Electronics & Engineering
+### Database
 
-* Digital Electronics
-* Analog Electronics
-* Communication Systems
-* Microprocessors & Microcontrollers
-* VLSI Fundamentals
-* Digital Logic Design
+* SQL
+* SQLite
+* MySQL
 
-### VLSI
+### Generative AI
 
-* Digital Design
-* Verilog HDL
-* RTL Design
-* Basic Chip Architecture
-* Simulation & Verification Fundamentals
+* Generative AI
+* Prompt Engineering
+* LLM Applications
+* AI API Integration
+* RAG Fundamentals
 
 ### Tools
 
-* Git & GitHub
+* Git
+* GitHub
 * VS Code
-* MATLAB
-* Arduino
 * Jupyter Notebook
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-### 🔹 VLSI Digital Design Projects
+### 🤖 Generative AI Applications
 
-Practical digital design experiments using HDL concepts, including combinational and sequential logic.
+Building AI-powered applications using Python, LLMs and AI APIs.
 
-### 🔹 Python Programming Projects
+### 🌐 Python Full Stack Applications
 
-Collection of Python programs covering fundamentals, problem solving, functions, data structures and small applications.
+Developing web applications with Python backend technologies, frontend technologies, databases and REST APIs.
 
-### 🔹 Embedded Systems Projects
+### 🧠 AI Chatbot
 
-Hands-on projects combining microcontrollers, sensors and electronic components.
+A conversational AI application demonstrating Python, APIs and Generative AI concepts.
 
-### 🔹 Communication Systems Projects
+### 📄 AI Document Assistant
 
-Projects and simulations related to communication engineering concepts.
-
----
-
-## 💼 Internship
-
-### VLSI Design & Chip Architecture Internship
-
-* Studied fundamentals of VLSI design and digital circuit implementation.
-* Worked with concepts related to digital logic and chip architecture.
-* Gained exposure to RTL/digital design concepts.
-* Improved understanding of the semiconductor and VLSI design workflow.
+An AI application designed to process documents and answer questions using retrieval-based techniques.
 
 ---
 
-## 📊 My Focus
+## 📚 Currently Learning
 
 ```text
-Electronics       █████████████████░░░
-VLSI              ████████████████░░░░
-Python            ██████████████░░░░░░
-Embedded Systems  █████████████░░░░░░░
-Communication     ███████████████░░░░░
+Python Full Stack     ████████████████░░░░
+Generative AI         ██████████████░░░░░░
+Python                █████████████████░░░
+Web Development       ███████████████░░░░░
+SQL                   █████████████░░░░░░░
+LLM Applications      ████████████░░░░░░░░
 ```
 
 ---
 
-## 🎯 Career Interests
+## 🎯 Career Goal
 
-I'm looking for opportunities where I can apply my engineering knowledge and continue developing practical skills in:
+My goal is to become a strong **Python Full Stack & Generative AI Developer** by building real-world applications and continuously improving my software development skills.
 
-* VLSI / Semiconductor
-* Embedded Systems
-* Electronics
-* Hardware & Firmware
-* Python / Software Development
-* Communication Engineering
+I'm interested in opportunities involving:
+
+* Python Development
+* Full Stack Development
+* Backend Development
+* Generative AI
+* AI Application Development
+* Software Engineering
 
 ---
 
-## 📈 GitHub Goals
+## 📌 GitHub Goals
 
-* Build practical engineering projects
-* Improve programming skills
-* Learn industry-relevant technologies
+* Build real-world software projects
+* Develop strong Python programming skills
+* Build full-stack web applications
+* Create practical Generative AI applications
+* Learn modern software development practices
 * Contribute to open-source projects
-* Create a strong engineering portfolio
+* Build a strong developer portfolio
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to learning, collaborating on projects, and connecting with engineers and developers.
+I'm open to learning, collaboration, internships and entry-level software development opportunities.
 
-**GitHub:** [sangireddyyashwanth3-jpg](https://github.com/sangireddyyashwanth3-jpg)
-
----
-
-⭐ *Building skills through projects, one step at a time.*
+⭐ Thanks for visiting my GitHub profile!
